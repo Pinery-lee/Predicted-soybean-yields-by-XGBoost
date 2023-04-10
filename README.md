@@ -5,4 +5,4 @@
 
 The first ten rows of data from the soy input data can be viewed [here](https://github.com/Pinery-lee/Predicted-soybean-yields-by-XGBoost/tree/main/data), showing what features (columns) were used.
 
-The full soybean input data is available here: [all-data.csv](https://www.aliyundrive.com/s/CzehXxE8PnZ) 
+The full soybean input data is available here: [all-data.csv in aliyundrive](https://www.aliyundrive.com/s/CzehXxE8PnZ) or [all-data.csv in google drive](https://drive.google.com/file/d/1yrPAevdaZsUzzoarbFJk28RP_RPLHa_7/view?usp=sharing)
