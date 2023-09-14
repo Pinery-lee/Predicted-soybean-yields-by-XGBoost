@@ -151,3 +151,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 data/all-data.csv
+data/first_paper/all-data.csv
+data/graduation_thesis/input_maize.csv
+data/graduation_thesis/input_soybean.csv
+data/graduation_thesis/input_maize_rename.csv
+data/graduation_thesis/input_soybean_rename.csv
+data/second_paper/input_maize_exp.csv
+data/second_paper/input_soybean_exp.csv
+data/second_paper/动态特征/processed/soybean/features.csv
+data/second_paper/动态特征/processed/maize/features.csv
