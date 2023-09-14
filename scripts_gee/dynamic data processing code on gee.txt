@@ -1,0 +1,13 @@
+Code Sharing Links:
+
+data_processing: Code for preprocessing predictors in the first paper on soybean prediction.
+Link: https://code.earthengine.google.com/da5b0ca636ed9f9076e97ca6ed4aab2d?noload=true
+
+The shapefile for soybean counties that you will need can be found here: https://code.earthengine.google.com/?asset=users/HT_RF_code/midwest_soybean_county
+
+maize_processing: Code for preprocessing predictors in the second paper on soybean and maize prediction.
+Link: https://code.earthengine.google.com/3cc17c3afe39e2dd2dc8f106546281b4?noload=true
+
+The shapefile for maize counties that you will need can be found here: https://code.earthengine.google.com/?asset=projects/robotic-haven-322604/assets/maize_counties
+
+The area shapefile for the CSDL data used can be found here: https://code.earthengine.google.com/?asset=projects/robotic-haven-322604/assets/csdl_geometry
